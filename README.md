@@ -14,6 +14,12 @@ Clone the repository and open `index.html` in your browser to start exploring th
 ```
 git clone https://github.com/Pratyush0898/windows-3d-scale-cube.git
 ```
+### Other wise
+- Clone the repository.
+- Open the repository with Visual Studio Code.
+- Install [Live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension, [Live preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server) extension or other like this.
+- run the index.html with extensions in two window of brouser (seprated)
+
 ## Usage
 The main application logic is contained within `main.js` and `WindowManager.js`. The 3D scene is rendered in `index.html`, which serves as the entry point of the application.
 
