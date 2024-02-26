@@ -31,7 +31,7 @@ The main application logic is contained within `main.js` and `WindowManager.js`.
 Contributions to enhance or expand the project are welcome. Feel free to fork the repository, make changes, and submit pull requests.
 
 ## License
-This project is open-sourced under the .
+This project is open-sourced under the (Apache 2.0 License)[LICENSE].
 
 ## Acknowledgments
 - The Three.js team for their comprehensive 3D library.
